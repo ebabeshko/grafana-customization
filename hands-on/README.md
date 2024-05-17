@@ -10,5 +10,7 @@ Allows to hide "Inspect - Panel JSON" menu item from Viewers (leaving only Inspe
 
 ![Inspect - Panel JSON](https://github.com/ebabeshko/grafana-customization/assets/63898296/7bfcf8a9-62e5-4c44-a623-b4ad31498895)
 
+Doesn't hide Panel JSON tab, just the menu item
+
 ---
 [Find And Replace Text command line utility](https://github.com/lionello/fart-it) is required for most scripts.
