@@ -4,6 +4,11 @@ Allows to change messages shown after button on Canvas panel is used:
 * API call was successful
 * An error has occurred. Check console output for more details.
 
+![Error Message](https://github.com/ebabeshko/grafana-customization/assets/63898296/ede8cc62-6eda-4d8d-98ce-167cf4382ba3)
+![Success Message](https://github.com/ebabeshko/grafana-customization/assets/63898296/29c875ce-9570-40e8-ac13-aa93abc85f34)
+
+
+
 # hide-inspect-panel-json.bat
 
 Allows to hide "Inspect - Panel JSON" menu item from Viewers (leaving only Inspect - Data):
